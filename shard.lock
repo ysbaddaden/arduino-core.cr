@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  nano:
+    git: https://github.com/ysbaddaden/nanolib.cr.git
+    version: 0.1.0+git.commit.71222b888bbc07a8a56a6e7290b6b959d12319fb
+
